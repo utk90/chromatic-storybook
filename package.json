@@ -8,7 +8,7 @@
     "start": "next start",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "chromatic": "npx chromatic --project-token=8aa0efeefb47"
+    "chromatic":"chromatic --project-token=CHROMATIC_PROJECT_TOKEN"
   },
   "dependencies": {
     "next": "10.2.3",
